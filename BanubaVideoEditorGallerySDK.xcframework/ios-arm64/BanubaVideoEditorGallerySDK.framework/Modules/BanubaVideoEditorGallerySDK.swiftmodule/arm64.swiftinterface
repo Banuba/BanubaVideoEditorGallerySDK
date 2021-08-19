@@ -9,8 +9,7 @@ import Swift
 import UIKit
 @_inheritsConvenienceInitializers @objc public class GalleryViewControllerBuilder : ObjectiveC.NSObject, BanubaUtilities.GalleryViewControllerFactory {
   public static var shared: BanubaVideoEditorGallerySDK.GalleryViewControllerBuilder
-  @objc public func makeGalleryViewController(withConfiguration configuration: BanubaUtilities.GalleryConfiguration, selectionBehaviour: BanubaUtilities.GallerySelectionBehaviour) -> BanubaUtilities.GalleryViewController
-  @objc public func makeAlbumsViewController(withConfiguration configuration: BanubaUtilities.AlbumsConfiguration) -> BanubaUtilities.AlbumsViewController
+  @objc public func makeGalleryViewController(withConfiguration configuration: BanubaUtilities.GalleryConfiguration, albumsConfiguration: BanubaUtilities.AlbumsConfiguration, selectionBehaviour: BanubaUtilities.GallerySelectionBehaviour) -> BanubaUtilities.GalleryViewController
   @objc override dynamic public init()
   @objc deinit
 }

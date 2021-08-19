@@ -209,15 +209,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 @class GalleryConfiguration;
+@class AlbumsConfiguration;
 @class GallerySelectionBehaviour;
 @class GalleryViewController;
-@class AlbumsConfiguration;
-@class AlbumsViewController;
 
 SWIFT_CLASS("_TtC27BanubaVideoEditorGallerySDK28GalleryViewControllerBuilder")
 @interface GalleryViewControllerBuilder : NSObject <GalleryViewControllerFactory>
-- (GalleryViewController * _Nonnull)makeGalleryViewControllerWithConfiguration:(GalleryConfiguration * _Nonnull)configuration selectionBehaviour:(GallerySelectionBehaviour * _Nonnull)selectionBehaviour SWIFT_WARN_UNUSED_RESULT;
-- (AlbumsViewController * _Nonnull)makeAlbumsViewControllerWithConfiguration:(AlbumsConfiguration * _Nonnull)configuration SWIFT_WARN_UNUSED_RESULT;
+- (GalleryViewController * _Nonnull)makeGalleryViewControllerWithConfiguration:(GalleryConfiguration * _Nonnull)configuration albumsConfiguration:(AlbumsConfiguration * _Nonnull)albumsConfiguration selectionBehaviour:(GallerySelectionBehaviour * _Nonnull)selectionBehaviour SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
