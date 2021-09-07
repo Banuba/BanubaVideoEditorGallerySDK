@@ -6,15 +6,15 @@
 	<dict>
 		<key>AlbumsTableViewCell.nib</key>
 		<data>
-		JILdta5ZkhH61GzL6vO52lvgCO8=
+		aukFsjrtDKBEgkKcZcKZ2dL0yGs=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		GAFXRTvwErTOWt9rgIoqK6adVLQ=
+		D5huowb4sEKcVnHAz9eBgaYz3gg=
 		</data>
 		<key>CombinedGalleryViewController.storyboardc/9RD-bk-v90-view-acS-Ce-xBY.nib</key>
 		<data>
-		X0H1u8wF7pTDQM9KKUI2wk9+M/E=
+		3fEMCAUkOBDx38ejAfwTbpw+Lpo=
 		</data>
 		<key>CombinedGalleryViewController.storyboardc/Info.plist</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>CombinedGalleryViewController.storyboardc/UIViewController-9RD-bk-v90.nib</key>
 		<data>
-		84vggaupgbRodHn9XzuyH0w5jKY=
+		mf2yyQ0I/DRgWDaSSmVczn1qFXs=
 		</data>
 		<key>GalleryAlbumsViewController.storyboardc/Cuu-Bg-WfJ-view-X1r-6A-jFF.nib</key>
 		<data>
-		iKVqZUanOrJ5NvviP9tEakbewyI=
+		RrSmFYLb76XRyLqEzsYmbK+EwTo=
 		</data>
 		<key>GalleryAlbumsViewController.storyboardc/Info.plist</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>GalleryAlbumsViewController.storyboardc/UIViewController-Cuu-Bg-WfJ.nib</key>
 		<data>
-		NH2YL5FTBjgnU7uQpn9JpQOj6uw=
+		0BEgJaX9AR/Sa+aN3/limYvLYKI=
 		</data>
 		<key>GalleryCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		eVhi+rkoAwabYTKa2zLDhTPm/Yo=
+		UJeTfnjIYOc0wbZqFCB0ZYmAjDE=
 		</data>
 		<key>GalleryCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		uAGonR1JajzoR+CAvPnPWiHp384=
+		6FQk29MWSvaKa75BevbTELU769M=
 		</data>
 		<key>Headers/BanubaVideoEditorGallerySDK-Swift.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		l6xVr1bPOWo+BbG45q+f9JEMpqI=
+		mjSE5LwCBHtDl4V/7f67mJQ54+4=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -131,21 +131,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zn+JwNfxfycJm89LVyYlFg6q2OOsG4piEO1OWCH9fxo=
+			VdPCMWlkCTJ7aPSF7lhKmdIjdblOUPuNhWbt/7kKKPs=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bUm/CzMncUC66rVQbhwigr84EwGhLaZN5Lm8orAcB/g=
+			8bQ2Wc75kJJYfVgQXI7/LcEx741ahu+xEK0URYTmvd4=
 			</data>
 		</dict>
 		<key>CombinedGalleryViewController.storyboardc/9RD-bk-v90-view-acS-Ce-xBY.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n3ur/qCVZ26Xbx3s7u2RRM5xvPYixUklucDf5QTsp3w=
+			UXIlmG/kFzxFfak9xXKhsalklB5Tuhzt19jbinV8qqo=
 			</data>
 		</dict>
 		<key>CombinedGalleryViewController.storyboardc/Info.plist</key>
@@ -159,14 +159,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RYfJMkLnaOyyCEM22uQ7Kgfv8AK3mLVWVxqAfGZ+46c=
+			X1MugSGge1L16XxwJeXG18Ze1WssfsR37El5m3G+qwU=
 			</data>
 		</dict>
 		<key>GalleryAlbumsViewController.storyboardc/Cuu-Bg-WfJ-view-X1r-6A-jFF.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rpnewqBOZMfj7eSLKleiBjYmEIv4Rn80T0bDlRGopJ0=
+			tZqYn8PwyTWCGroS6DNz8FGE+5yLZnWiBv7B3tYxJQg=
 			</data>
 		</dict>
 		<key>GalleryAlbumsViewController.storyboardc/Info.plist</key>
@@ -180,21 +180,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5pw1igIqomSNaxfD+x6x7n0C8IfdZBp6kx1eylcuy8=
+			Ef7Fec/bOP8BIuCVjG9N2bizZlMbZIr+0C57H7+RXNI=
 			</data>
 		</dict>
 		<key>GalleryCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EFSN43dPESvlY/ocvqBEMideFW4g5I/dg3jH9kVXuzg=
+			Rl6MnkRvLPyo+BO0XNroYmPn0m1SfK4wLj5Adm07Sow=
 			</data>
 		</dict>
 		<key>GalleryCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BakcAA25D/pidslxVm+yNiOCvua/u48dLEil3wEPTvo=
+			ZW0E/HzOHRqSVlaJABtNO1HcVvGfBm9UGtrteIT/69o=
 			</data>
 		</dict>
 		<key>Headers/BanubaVideoEditorGallerySDK-Swift.h</key>
