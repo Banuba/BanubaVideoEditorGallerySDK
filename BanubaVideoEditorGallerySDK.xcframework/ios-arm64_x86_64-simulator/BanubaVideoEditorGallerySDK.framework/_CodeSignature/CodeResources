@@ -58,23 +58,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LF97eOBKCDhA296towja7oUZ5GQ=
+		vIqaDOYOqj7SuQzqGfDmKth3a6U=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		/VBhPNoEN+9XBwKjtFLnDXuYv2w=
+		PjqwcUz+8S29CLGYF67Gq1y2m2s=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		/VBhPNoEN+9XBwKjtFLnDXuYv2w=
+		PjqwcUz+8S29CLGYF67Gq1y2m2s=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		G8bhb7Jr23TyXwA6DpTY5WM2gLs=
+		gu6gICUSMAomn0um129jCKYY8NM=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		G8bhb7Jr23TyXwA6DpTY5WM2gLs=
+		gu6gICUSMAomn0um129jCKYY8NM=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gM++jPPD4JEl7F1idkxV1IeElKg=
+		ZAyW5lm4FqCvnckZ3sD0m1h5wZw=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		gM++jPPD4JEl7F1idkxV1IeElKg=
+		ZAyW5lm4FqCvnckZ3sD0m1h5wZw=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JntY6eMEIsj8d+JRd3/Nqq7hVts=
+		zkq3F+XPQleEAbjq8cG3jVfwHD4=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		JntY6eMEIsj8d+JRd3/Nqq7hVts=
+		zkq3F+XPQleEAbjq8cG3jVfwHD4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -226,28 +226,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WaKMWTGkZB2Nh/IQKSACZqcxIDehRZhqQWdDZsAJT/s=
+			VVHFM/cjtVspobubm7fwRBKIuaYgVExRGwNXXYVXru8=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WaKMWTGkZB2Nh/IQKSACZqcxIDehRZhqQWdDZsAJT/s=
+			VVHFM/cjtVspobubm7fwRBKIuaYgVExRGwNXXYVXru8=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cOWXqKZkss4BKHfrjOYhbjSbqM6Ng26f/bNwn+R5GcI=
+			mb1+EVHwpyvwUcFT/n+/PJKgqXHjX7Zl9RvNQ5RQ0Yc=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cOWXqKZkss4BKHfrjOYhbjSbqM6Ng26f/bNwn+R5GcI=
+			mb1+EVHwpyvwUcFT/n+/PJKgqXHjX7Zl9RvNQ5RQ0Yc=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -268,7 +268,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s+725HcKRh0iC3VmPgGRfygKa9RJSF3jMrl8e4lVLIY=
+			XuIJ5Sn0xsezUDM1I5Kh0mvOAmNbpyyJ5bjvLTUvzcc=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftdoc</key>
@@ -289,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s+725HcKRh0iC3VmPgGRfygKa9RJSF3jMrl8e4lVLIY=
+			XuIJ5Sn0xsezUDM1I5Kh0mvOAmNbpyyJ5bjvLTUvzcc=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -310,7 +310,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BqxCmBPdIziD1036LSTEyFl27NPmxSbFtTK/mlMSCZw=
+			LckfgmCvJZ09jaDOa8oCg3XQ2RjZwg0VJqGVV+KrhCI=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64.swiftdoc</key>
@@ -331,7 +331,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BqxCmBPdIziD1036LSTEyFl27NPmxSbFtTK/mlMSCZw=
+			LckfgmCvJZ09jaDOa8oCg3XQ2RjZwg0VJqGVV+KrhCI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
