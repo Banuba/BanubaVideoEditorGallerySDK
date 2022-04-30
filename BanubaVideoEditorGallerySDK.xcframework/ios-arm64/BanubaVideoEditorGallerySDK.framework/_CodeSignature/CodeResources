@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		gqwoghKWb+VMMdc1qOR36levBR8=
+		uljNR6i0b+iEMk20Y/zC539YHew=
 		</data>
 		<key>CombinedGalleryViewController.storyboardc/9RD-bk-v90-view-acS-Ce-xBY.nib</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/BanubaVideoEditorGallerySDK-Swift.h</key>
 		<data>
-		dGTg7rW7v1IVxcvE5zKP79FywfY=
+		5GqJPpMsp4oSCzmbHh8Au8ahnNY=
 		</data>
 		<key>Headers/BanubaVideoEditorGallerySDK.h</key>
 		<data>
@@ -58,39 +58,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ph16GNdRyyOVOiwp/Q0C0AkOSOQ=
+		N4HoDmfvqAo2fZOuXYpr3ysg0BQ=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		pALGBI27FLItKlPvdwnOIxW3ioA=
-		</data>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		pALGBI27FLItKlPvdwnOIxW3ioA=
+		Mzl8BjM3o2zRSCYdQSvyX9+1g0g=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		A+ycR94tRulOBNVP89YVnsuQmJw=
+		8huDI9htCNr2mlkmGWrEpKeJxgo=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		7FB7D/DdQnb6dbfaFSWhaWEwPbk=
+		6nCjByVkBMtlCNrx1WbtVstYXg8=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hiAsk4WI/WK1bpsimiwtMU31c8Y=
-		</data>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		A+ycR94tRulOBNVP89YVnsuQmJw=
-		</data>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		7FB7D/DdQnb6dbfaFSWhaWEwPbk=
-		</data>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		hiAsk4WI/WK1bpsimiwtMU31c8Y=
+		ecB0UxdmAsW837omQJ96EZprAck=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +94,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fUF3piaKWnaS9sNRX/0jKf6xXu8MLo2oTiwqHL+6ztw=
+			j43x6KzDSmH2lRH85XQ+kw8yhSFU7eJraFTVmsUe79A=
 			</data>
 		</dict>
 		<key>CombinedGalleryViewController.storyboardc/9RD-bk-v90-view-acS-Ce-xBY.nib</key>
@@ -180,7 +164,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5PhnRL5u5QHaAGcag0rxXmXbh8yVB+r99zTDyMlwBPA=
+			HmoDCyy1o1PrJYfNNwbQQqWzY3jDw9esxjKJhnZ3o30=
 			</data>
 		</dict>
 		<key>Headers/BanubaVideoEditorGallerySDK.h</key>
@@ -194,56 +178,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gKTR9FSnQj0L7WtjTeoeDgVhL7I+kKsUU42TgDmeKYM=
-			</data>
-		</dict>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gKTR9FSnQj0L7WtjTeoeDgVhL7I+kKsUU42TgDmeKYM=
+			AxIRUybB6LgB82UdEq2KPLkNqhgnvsfgzOUUCvDYBXU=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qbSDJucnvfvf5TaaQ3XsF/dIcmfcFRahmP9DzwG/kjo=
+			ZoIPIVCl097mJAicFLwceyuf/Y+nZvKE5xzMUW7j+eo=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z5y53xAf1oRHArbXKib6CjTiDstYMt0g2dLaLF3KdYA=
+			E/Fa9JBktfZjKt0ObysgGYZygVi/jBTDWx8DNjkd5Nk=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8BN5A8Tc8UFlOUFf+9w+HjfWtQeEiaMuIJlUs+0DplA=
-			</data>
-		</dict>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qbSDJucnvfvf5TaaQ3XsF/dIcmfcFRahmP9DzwG/kjo=
-			</data>
-		</dict>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Z5y53xAf1oRHArbXKib6CjTiDstYMt0g2dLaLF3KdYA=
-			</data>
-		</dict>
-		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8BN5A8Tc8UFlOUFf+9w+HjfWtQeEiaMuIJlUs+0DplA=
+			9fQWrUO4bg33cT1H29qjDDw8f3VtOFV8WguZ6PZ3m4k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
