@@ -6,6 +6,6 @@ framework module BanubaVideoEditorGallerySDK {
 }
 
 module BanubaVideoEditorGallerySDK.Swift {
-    header "BanubaVideoEditorGallerySDK-Swift.h"
-    requires objc
+  header "BanubaVideoEditorGallerySDK-Swift.h"
+  requires objc
 }
