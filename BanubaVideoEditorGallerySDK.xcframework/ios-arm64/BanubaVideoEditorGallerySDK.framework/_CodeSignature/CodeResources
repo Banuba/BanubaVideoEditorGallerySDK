@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		W3E/10dev/geaH/Oxj3roL25As4=
+		tqb2RXzlQIEWOXGXQyFe8XDF/X8=
 		</data>
 		<key>CombinedGalleryViewController.storyboardc/9RD-bk-v90-view-acS-Ce-xBY.nib</key>
 		<data>
@@ -36,13 +36,9 @@
 		<data>
 		KZsCVviRoHUALx/rWtUAUiElsnc=
 		</data>
-		<key>GalleryCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>GalleryCollectionViewCell.nib</key>
 		<data>
 		FiKn9H2spG+JBngKJ7/JoL2oiOA=
-		</data>
-		<key>GalleryCollectionViewCell.nib/runtime.nib</key>
-		<data>
-		6qNOOu/+UriSKgJ0CpmFWO+Digs=
 		</data>
 		<key>GalleryHeaderCollectionReusableView.nib</key>
 		<data>
@@ -70,7 +66,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8fUSC5nMtvxv362qRut2rL1G2Q0=
+		p7TH50BY52FivwyMuG4V+GD0MHM=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -78,19 +74,19 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		9nNtHW63fH67KUKdVP1SAsa4et8=
+		HONb0efmqKyRwaRzP59atpGP0tY=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		vCJup5wchIBB0GBtPtyh0jttYmA=
+		U8dPgnmUsKy0F4sSTuuNDzJ5kOs=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		9nNtHW63fH67KUKdVP1SAsa4et8=
+		HONb0efmqKyRwaRzP59atpGP0tY=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZUShPXghZnbNMb8R5Pg0J+99ymM=
+		vszHlvQelXBE15IISw5C3hbQKqg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HByAoHrFBwvtotDRndbD9DiVhqJY2C5cU5SkRx8THBM=
+			2iEZEb04iPCs1QUBYa//27/fKxPTNMFEooWzWXWX6qg=
 			</data>
 		</dict>
 		<key>CombinedGalleryViewController.storyboardc/9RD-bk-v90-view-acS-Ce-xBY.nib</key>
@@ -155,18 +151,11 @@
 			lZUp2V9Nu1NUVIm1KcjcqBm9fufxa6DIumwz5d6X8rk=
 			</data>
 		</dict>
-		<key>GalleryCollectionViewCell.nib/objects-12.3+.nib</key>
+		<key>GalleryCollectionViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			9/xbr/aKw2xH/2rNtLYeHJal65AgKb67GJUXZoEaMXU=
-			</data>
-		</dict>
-		<key>GalleryCollectionViewCell.nib/runtime.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WUaLCVZSkYKQcRES1t1+3gpZGwevVLcOrE8npgIt9AA=
 			</data>
 		</dict>
 		<key>GalleryHeaderCollectionReusableView.nib</key>
@@ -222,28 +211,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvrZ1rKR3RNEV/NSAaT2IEA1lY3wg4cWrseSnmVHuj4=
+			wiAUYna0/qW/uJUGKcDWT5gZEAn3yZl344coOUpWoUQ=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j4OND7gc9P7Td5EBbk9nl9Bkp1Rz9PvMRHtTcIAWaDY=
+			ObVrA3jT2f4AdMr/JbgTiA3Yf+zr0tG9NzlFbR1e88Q=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvrZ1rKR3RNEV/NSAaT2IEA1lY3wg4cWrseSnmVHuj4=
+			wiAUYna0/qW/uJUGKcDWT5gZEAn3yZl344coOUpWoUQ=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CYxDW5hb/QM8gkjUp9wfy4gevOQLZkEoHAw+T9cHV0=
+			Vfs2UmTwIahfUMpxVsbpdtJyytCnIJLue4J53XSAAaM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
