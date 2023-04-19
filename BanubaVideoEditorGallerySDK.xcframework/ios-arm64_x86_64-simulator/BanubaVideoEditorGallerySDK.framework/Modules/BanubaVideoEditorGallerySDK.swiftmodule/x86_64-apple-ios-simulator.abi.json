@@ -773,21 +773,14 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/CombinedGalleryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9900,
+      "offset": 9810,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Albums\/GalleryAlbumsViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 94,
-      "length": 20,
-      "value": "\"slideshow_arrow_up\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Albums\/GalleryAlbumsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 937,
+      "offset": 807,
       "length": 5,
       "value": "false"
     },
