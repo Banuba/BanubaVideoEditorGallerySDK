@@ -565,8 +565,8 @@
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/CombinedGalleryViewControllerPresenter.swift",
       "kind": "IntegerLiteral",
       "offset": 1487,
-      "length": 2,
-      "value": "60"
+      "length": 3,
+      "value": "120"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
