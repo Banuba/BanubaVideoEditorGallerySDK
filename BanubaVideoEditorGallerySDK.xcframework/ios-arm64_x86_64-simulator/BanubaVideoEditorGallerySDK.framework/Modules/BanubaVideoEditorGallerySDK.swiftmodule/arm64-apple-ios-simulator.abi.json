@@ -498,6 +498,34 @@
         "printedName": "BanubaUtilities",
         "declKind": "Import",
         "moduleName": "BanubaVideoEditorGallerySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BanubaVideoEditorGallerySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BanubaVideoEditorGallerySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "BanubaVideoEditorGallerySDK"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "BanubaVideoEditorGallerySDK"
       }
     ],
     "json_format_version": 8
@@ -884,28 +912,35 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
       "kind": "IntegerLiteral",
-      "offset": 2041,
+      "offset": 2003,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2136,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2145,
+      "offset": 2377,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2343,
+      "offset": 2600,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/ios\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Gallery\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
       "kind": "BooleanLiteral",
-      "offset": 2831,
+      "offset": 3088,
       "length": 4,
       "value": "true"
     },
@@ -2203,6 +2238,27 @@
       "offset": 839,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-dvbqgkbyffpndzghkkiwcffgdpts\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 723,
+      "length": 7,
+      "value": "\"cross\""
+    },
+    {
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-dvbqgkbyffpndzghkkiwcffgdpts\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 884,
+      "length": 26,
+      "value": "\"icon-close-with-bg-small\""
+    },
+    {
+      "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-dvbqgkbyffpndzghkkiwcffgdpts\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1030,
+      "length": 7,
+      "value": "\"minus\""
     }
   ]
 }
