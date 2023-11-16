@@ -66,11 +66,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cv5q0YPrDFUjpTi4FWtYtr9J+dI=
+		U2cYwPPO6Xlr6nagtG3MKj1h+qI=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ss5mThbjF7ZxCGt+vMpa6ifpyGc=
+		acKrAPwVuUnMqMj2U78AHUqdhxw=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ss5mThbjF7ZxCGt+vMpa6ifpyGc=
+		acKrAPwVuUnMqMj2U78AHUqdhxw=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -228,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCrdVyxJj7ad+w50dBEEVI/T8IxkNnc7/djOHcfDBlA=
+			i1TVQNxO2Ad3V2Wu+oPg7pHfIKf3DSP+GQ9Z/61nhM0=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GCrdVyxJj7ad+w50dBEEVI/T8IxkNnc7/djOHcfDBlA=
+			i1TVQNxO2Ad3V2Wu+oPg7pHfIKf3DSP+GQ9Z/61nhM0=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
