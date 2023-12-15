@@ -66,11 +66,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ar9tpno4AGnfUJUx23wvNZwr0oU=
+		IsOHahaL6fQ3Ifk11EHBSyObdws=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5FIwCBol4fJQrX9uTYVDKGrp36w=
+		EkwJx4Jr6A6ajJS8mhkHhlq/wmk=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LTspRdKuD0aj1hCS6Cq25V3mzmo=
+		fTdpkfZkLBEwPh8DsMjaZHMW9IY=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5FIwCBol4fJQrX9uTYVDKGrp36w=
+		EkwJx4Jr6A6ajJS8mhkHhlq/wmk=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		74H70WntoWehEuSaRguGsNBSEvs=
+		Ojo9mc9J2JSCd6RVhUedjFk2EOM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -228,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			43PkyWkatgg+A7eQLwCPZoSoqR5FvDhOaEGZ9cKlyCI=
+			XSHD9S6li21ugQW4PNQ9fM/lBvrT3X9Bv78J9a0aIcQ=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -256,14 +256,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2DFVlpReWojDPm38VjNzV97f1scguc+JJ/GVK1uxMaw=
+			l/uY2ctzd7TRkVqy6obXkPLZpLOFxf3F2+qzcT6EkMA=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			43PkyWkatgg+A7eQLwCPZoSoqR5FvDhOaEGZ9cKlyCI=
+			XSHD9S6li21ugQW4PNQ9fM/lBvrT3X9Bv78J9a0aIcQ=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -291,7 +291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/rFy4mUw+JYvlK3YMXMtXI8NsDD0yJWwURGu90WaO68=
+			hDHOmGd3CH85JgnjYveNG8UPGBAz2BxdHsxsu3JWwUo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
