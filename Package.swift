@@ -1,17 +1,22 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.9
+
 import PackageDescription
+
 let package = Package(
   name: "BanubaVideoEditorGallerySDK",
   platforms: [
-    .iOS(.v12)
+    .iOS(.v15)
   ],
   products: [
     .library(
       name: "BanubaVideoEditorGallerySDK",
-      targets: ["BanubaVideoEditorGallerySDK"])
+      targets: ["BanubaVideoEditorGallerySDK"]
+    )
   ],
   targets: [
     .binaryTarget(
       name: "BanubaVideoEditorGallerySDK",
-      path: "BanubaVideoEditorGallerySDK.xcframework")
-  ])
+      path: "BanubaVideoEditorGallerySDK.xcframework"
+    )
+  ]
+)
