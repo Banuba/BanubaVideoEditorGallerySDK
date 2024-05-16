@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
-// swift-module-flags: -target x86_64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BanubaVideoEditorGallerySDK
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BanubaVideoEditorGallerySDK
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
 import BanubaUtilities
@@ -14,9 +14,232 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+public protocol TTSegmentedControlDelegate : AnyObject {
+  func segmentedViewDidBegin(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl)
+  func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, didDragAt index: Swift.Int)
+  func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, shouldMoveAt index: Swift.Int) -> Swift.Bool
+  func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, didEndAt index: Swift.Int)
+}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControlDelegate {
+  public func segmentedViewDidBegin(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl)
+  public func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, didDragAt index: Swift.Int)
+  public func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, shouldMoveAt index: Swift.Int) -> Swift.Bool
+  public func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, didEndAt index: Swift.Int)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) final public class TTSegmentedControl : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) weak final public var delegate: (any BanubaVideoEditorGallerySDK.TTSegmentedControlDelegate)?
+  @_Concurrency.MainActor(unsafe) final public var selectedIndex: Swift.Int {
+    get
+  }
+  @_Concurrency.MainActor(unsafe) final public var bounceAnimationOptions: BanubaVideoEditorGallerySDK.TTSegmentedControlBounceOptions?
+  @_Concurrency.MainActor(unsafe) final public var selectionViewShadow: BanubaVideoEditorGallerySDK.TTSegmentedControlShadow? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var selectionViewInnerShadow: BanubaVideoEditorGallerySDK.TTSegmentedControlShadow? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var selectionViewBorder: BanubaVideoEditorGallerySDK.TTSegmentedControlBorder? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var titleDistribution: BanubaVideoEditorGallerySDK.TTSegmentedControl.TitleDistribution {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var isDragEnabled: Swift.Bool
+  @_Concurrency.MainActor(unsafe) final public var animationOptions: BanubaVideoEditorGallerySDK.TTSegmentedControlAnimationOption?
+  @_Concurrency.MainActor(unsafe) final public var isSizeAdjustEnabled: Swift.Bool
+  @_Concurrency.MainActor(unsafe) final public var containerViewInnerShadow: BanubaVideoEditorGallerySDK.TTSegmentedControlShadow? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var containerViewBorder: BanubaVideoEditorGallerySDK.TTSegmentedControlBorder? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var containerColorType: BanubaVideoEditorGallerySDK.TTSegmentedControl.ColorType {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var selectionViewColorType: BanubaVideoEditorGallerySDK.TTSegmentedControl.ColorType {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var selectionViewFillType: BanubaVideoEditorGallerySDK.TTSegmentedControl.SelectionViewFillType {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var switchSecondSelectionViewColorType: BanubaVideoEditorGallerySDK.TTSegmentedControl.ColorType? {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var padding: CoreFoundation.CGSize {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var cornerRadius: BanubaVideoEditorGallerySDK.TTSegmentedControl.CornerRadius {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var cornerCurve: QuartzCore.CALayerCornerCurve {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var titles: [BanubaVideoEditorGallerySDK.TTSegmentedControlTitle] {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) final public var isSwitchBehaviorEnabled: Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc override final public func layoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreFoundation.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl {
+  @_Concurrency.MainActor(unsafe) @objc override final public func touchesBegan(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+  @_Concurrency.MainActor(unsafe) @objc override final public func touchesEnded(_ touches: Swift.Set<UIKit.UITouch>, with event: UIKit.UIEvent?)
+}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl {
+  @_Concurrency.MainActor(unsafe) final public func selectItem(at index: Swift.Int, animated: Swift.Bool = false)
+  @_Concurrency.MainActor(unsafe) final public func titleForItem(at index: Swift.Int) -> BanubaVideoEditorGallerySDK.TTSegmentedControlTitle?
+}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl {
+  public enum TitleDistribution {
+    case fillEqually
+    case equalSpacing
+    public static func == (a: BanubaVideoEditorGallerySDK.TTSegmentedControl.TitleDistribution, b: BanubaVideoEditorGallerySDK.TTSegmentedControl.TitleDistribution) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum SelectionViewFillType {
+    case fillSegment
+    case fillText
+    public static func == (a: BanubaVideoEditorGallerySDK.TTSegmentedControl.SelectionViewFillType, b: BanubaVideoEditorGallerySDK.TTSegmentedControl.SelectionViewFillType) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  public enum CornerRadius {
+    case none
+    case maximum
+    case constant(value: CoreFoundation.CGFloat)
+  }
+  public enum ColorType {
+    case color(value: UIKit.UIColor)
+    case gradient(value: BanubaVideoEditorGallerySDK.TTSegmentedControlGradient)
+    case colorWithGradient(color: UIKit.UIColor, gradient: BanubaVideoEditorGallerySDK.TTSegmentedControlGradient)
+  }
+}
+public struct TTSwiftUISegmentedControl : SwiftUI.UIViewRepresentable {
+  public init(titles: [BanubaVideoEditorGallerySDK.TTSegmentedControlTitle], selectedIndex: SwiftUI.Binding<Swift.Int?>? = .constant(nil))
+  @_Concurrency.MainActor(unsafe) public func makeUIView(context: BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl.Context) -> UIKit.UIView
+  @_Concurrency.MainActor(unsafe) public func updateUIView(_ view: UIKit.UIView, context: BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl.Context)
+  @_Concurrency.MainActor(unsafe) public func makeCoordinator() -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl.Coordinator
+  @_hasMissingDesignatedInitializers final public class Coordinator : BanubaVideoEditorGallerySDK.TTSegmentedControlDelegate {
+    final public func segmentedViewDidBegin(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl)
+    final public func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, didDragAt index: Swift.Int)
+    final public func segmentedView(_ view: BanubaVideoEditorGallerySDK.TTSegmentedControl, didEndAt index: Swift.Int)
+    @objc deinit
+  }
+  public typealias Body = Swift.Never
+  public typealias UIViewType = UIKit.UIView
+}
+extension BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl {
+  public func titleDistribution(_ distribution: BanubaVideoEditorGallerySDK.TTSegmentedControl.TitleDistribution) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func selectionViewPadding(_ padding: CoreFoundation.CGSize) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func isDragEnabled(_ value: Swift.Bool) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func animationOptions(_ options: BanubaVideoEditorGallerySDK.TTSegmentedControlAnimationOption?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func isSizeAdjustEnabled(_ value: Swift.Bool) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func containerColorType(_ colorType: BanubaVideoEditorGallerySDK.TTSegmentedControl.ColorType) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func selectionViewColorType(_ colorType: BanubaVideoEditorGallerySDK.TTSegmentedControl.ColorType) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func switchSecondSelectionViewColorType(_ colorType: BanubaVideoEditorGallerySDK.TTSegmentedControl.ColorType?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func selectionViewShadow(_ shadow: BanubaVideoEditorGallerySDK.TTSegmentedControlShadow?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func selectionViewInnerShadow(_ shadow: BanubaVideoEditorGallerySDK.TTSegmentedControlShadow?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func selectionViewBorder(_ border: BanubaVideoEditorGallerySDK.TTSegmentedControlBorder?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func selectionViewFillType(_ type: BanubaVideoEditorGallerySDK.TTSegmentedControl.SelectionViewFillType) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func bounceAnimationOptions(_ options: BanubaVideoEditorGallerySDK.TTSegmentedControlBounceOptions?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func cornerRadius(_ type: BanubaVideoEditorGallerySDK.TTSegmentedControl.CornerRadius) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func cornerCurve(_ cornerCurve: QuartzCore.CALayerCornerCurve) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func isSwitchBehaviorEnabled(_ value: Swift.Bool) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func didBeginTouch(_ body: (() -> Swift.Void)?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func didDragOverItemAtIndex(_ body: ((Swift.Int) -> Swift.Void)?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func didEndTouchAtIndex(_ body: ((Swift.Int) -> Swift.Void)?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func containerViewInnerShadow(_ shadow: BanubaVideoEditorGallerySDK.TTSegmentedControlShadow?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+  public func containerViewBorder(_ border: BanubaVideoEditorGallerySDK.TTSegmentedControlBorder?) -> BanubaVideoEditorGallerySDK.TTSwiftUISegmentedControl
+}
+public struct TTSegmentedControlBorder {
+  public let color: UIKit.UIColor
+  public let lineWidth: CoreFoundation.CGFloat
+  public init(color: UIKit.UIColor, lineWidth: CoreFoundation.CGFloat = 1)
+}
+public struct TTSegmentedControlShadow {
+  public let color: UIKit.UIColor
+  public let offset: CoreFoundation.CGSize
+  public let innerOffset: CoreFoundation.CGSize
+  public let opacity: Swift.Float
+  public let radius: CoreFoundation.CGFloat
+  public init(color: UIKit.UIColor = .black, offset: CoreFoundation.CGSize = .init(width: 0, height: 1), innerOffset: CoreFoundation.CGSize = .init(width: -1, height: -1), opacity: Swift.Float = 0.6, radius: CoreFoundation.CGFloat = 3.0)
+}
+public struct TTSegmentedControlBounceOptions {
+  public let springDamping: CoreFoundation.CGFloat
+  public let springInitialVelocity: CoreFoundation.CGFloat
+  public init(springDamping: CoreFoundation.CGFloat = 0.7, springInitialVelocity: CoreFoundation.CGFloat = 0.2)
+}
+public struct TTSegmentedControlAnimationOption {
+  public let duration: Foundation.TimeInterval
+  public let options: UIKit.UIView.AnimationOptions
+  public init(duration: Foundation.TimeInterval = 0.3, options: UIKit.UIView.AnimationOptions = .curveEaseInOut)
+}
 @_inheritsConvenienceInitializers @objc public class GalleryViewControllerBuilder : ObjectiveC.NSObject, BanubaUtilities.GalleryViewControllerFactory {
   public static let shared: BanubaVideoEditorGallerySDK.GalleryViewControllerBuilder
   @objc public func makeGalleryViewController(withConfiguration configuration: BanubaUtilities.GalleryConfiguration, albumsConfiguration: BanubaUtilities.AlbumsConfiguration, selectionBehaviour: BanubaUtilities.GallerySelectionBehaviour) -> BanubaUtilities.GalleryViewController
   @objc override dynamic public init()
   @objc deinit
 }
+public struct TTSegmentedControlGradient {
+  public let locations: [Foundation.NSNumber]?
+  public let startPoint: CoreFoundation.CGPoint
+  public let endPoint: CoreFoundation.CGPoint
+  public let colors: [UIKit.UIColor]
+  public init(locations: [Foundation.NSNumber]? = nil, startPoint: CoreFoundation.CGPoint = CGPoint(x: 0.5, y: 0.0), endPoint: CoreFoundation.CGPoint = CGPoint(x: 0.5, y: 1.0), colors: [UIKit.UIColor] = [.yellow, .purple])
+}
+public struct TTSegmentedControlTitle {
+  public let text: Swift.String?
+  public let defaultColor: UIKit.UIColor
+  public let defaultFont: UIKit.UIFont
+  public let defaultAttributedText: Foundation.NSAttributedString?
+  public let defaultImage: UIKit.UIImage?
+  public let selectedColor: UIKit.UIColor
+  public let selectedFont: UIKit.UIFont
+  public let selectedAttributedText: Foundation.NSAttributedString?
+  public let selectedImage: UIKit.UIImage?
+  public let imageSize: CoreFoundation.CGSize?
+  public let imagePosition: BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition
+  public let spaceBetweenTextAndImage: CoreFoundation.CGFloat
+  public init(text: Swift.String? = nil, defaultColor: UIKit.UIColor = .black, defaultFont: UIKit.UIFont = .systemFont(ofSize: 12), defaultImage: UIKit.UIImage? = nil, selectedColor: UIKit.UIColor = .white, selectedFont: UIKit.UIFont = .systemFont(ofSize: 12), selectedImage: UIKit.UIImage? = nil, imageSize: CoreFoundation.CGSize? = nil, imagePosition: BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition = .right, spaceBetweenTextAndImage: CoreFoundation.CGFloat = 5)
+  public init(defaultAttributedText: Foundation.NSAttributedString, defaultImage: UIKit.UIImage? = nil, selectedAttributedText: Foundation.NSAttributedString, selectedImage: UIKit.UIImage? = nil, imageSize: CoreFoundation.CGSize? = nil, imagePosition: BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition = .right, spaceBetweenTextAndImage: CoreFoundation.CGFloat = 5)
+}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControlTitle {
+  public enum ImagePosition {
+    case left
+    case right
+    case top
+    case bottom
+    public static func == (a: BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition, b: BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl.TitleDistribution : Swift.Equatable {}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl.TitleDistribution : Swift.Hashable {}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl.SelectionViewFillType : Swift.Equatable {}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControl.SelectionViewFillType : Swift.Hashable {}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition : Swift.Equatable {}
+extension BanubaVideoEditorGallerySDK.TTSegmentedControlTitle.ImagePosition : Swift.Hashable {}
