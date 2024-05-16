@@ -3,7 +3,7 @@ triple:          'x86_64-apple-darwin'
 binary-path:     '/Users/user/Library/Developer/Xcode/DerivedData/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi/Build/Intermediates.noindex/ArchiveIntermediates/BanubaVideoEditorGallerySDK/InstallationBuildProductsLocation/Library/Frameworks/BanubaVideoEditorGallerySDK.framework/BanubaVideoEditorGallerySDK'
 relocations:
   - { offsetInCU: 0x34, offset: 0x719F0, size: 0x8, addend: 0x0, symName: _BanubaVideoEditorGallerySDKVersionString, symObjAddr: 0x0, symBinAddr: 0x4C6F0, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x71A25, size: 0x8, addend: 0x0, symName: _BanubaVideoEditorGallerySDKVersionNumber, symObjAddr: 0x60, symBinAddr: 0x4C750, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x71A25, size: 0x8, addend: 0x0, symName: _BanubaVideoEditorGallerySDKVersionNumber, symObjAddr: 0x58, symBinAddr: 0x4C748, symSize: 0x0 }
   - { offsetInCU: 0x43, offset: 0x71A7E, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK26TTSegmentedControlDelegateP21segmentedViewDidBeginyyAA0fG0CF', symObjAddr: 0x0, symBinAddr: 0x3930, symSize: 0x10 }
   - { offsetInCU: 0x5F, offset: 0x71A9A, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK26TTSegmentedControlDelegatePAAE21segmentedViewDidBeginyyAA0fG0CF', symObjAddr: 0x10, symBinAddr: 0x3940, symSize: 0x10 }
   - { offsetInCU: 0x86, offset: 0x71AC1, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK26TTSegmentedControlDelegateP13segmentedView_9didDragAtyAA0fG0C_SitF', symObjAddr: 0x20, symBinAddr: 0x3950, symSize: 0x10 }
