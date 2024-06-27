@@ -58,11 +58,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fg9loRTHOzLNa+/7bww0xkUQmy8=
+		335uhMlgFzIksLjnD67z4DeDg2A=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		HNIRuajCfciGD8ut18/uq/kXaH4=
+		b6K9SADPr78UyWMCd6+fsyBq5+o=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -78,11 +78,11 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ogKABX/z/aCvXfpLGxdbEINrRrk=
+		sdP3E6IxvR9Za2xZPWnIgPGMLUw=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		HNIRuajCfciGD8ut18/uq/kXaH4=
+		b6K9SADPr78UyWMCd6+fsyBq5+o=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aUk3iLNYpNeygh5VIItDWkM/V88=
+		RCvIJVTS4z5ztzbL/6laUYkul4E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -214,7 +214,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XxUWLjlUENDuKyOnl0u59VfphojA1+wsNsCYjrbAM2Y=
+			hHRS8pbhCxlTMj0m5HOeyNmg1wiIKaVKODKKdf9nHz4=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -242,14 +242,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			345MFgTzETASPsfeQQQPAlApktNaa7iKjmGUKGQoeFI=
+			XstwyI7VFOX/n9KD6Opa19CTL5pjFz7JmV5ag7L6PvM=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XxUWLjlUENDuKyOnl0u59VfphojA1+wsNsCYjrbAM2Y=
+			hHRS8pbhCxlTMj0m5HOeyNmg1wiIKaVKODKKdf9nHz4=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -277,7 +277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oLbB38jIo2ZwJ6PGrYArB6nmNztRtqtmX/hWo91UPo0=
+			T90otXlRIzvEVo1tyo8vaBTOW8FqV0I7sMGo8A6Qff0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
