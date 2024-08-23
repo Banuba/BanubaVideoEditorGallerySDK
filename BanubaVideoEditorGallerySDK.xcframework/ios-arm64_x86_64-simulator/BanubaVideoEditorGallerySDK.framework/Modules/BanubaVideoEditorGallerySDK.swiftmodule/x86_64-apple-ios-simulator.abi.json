@@ -7605,112 +7605,112 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "IntegerLiteral",
-      "offset": 976,
+      "offset": 1000,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1456,
+      "offset": 1480,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1582,
+      "offset": 1606,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "IntegerLiteral",
-      "offset": 2207,
+      "offset": 2231,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "IntegerLiteral",
-      "offset": 2218,
+      "offset": 2242,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "Array",
-      "offset": 2468,
+      "offset": 2492,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 2546,
+      "offset": 2570,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 3063,
+      "offset": 3087,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 3100,
+      "offset": 3124,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 3139,
+      "offset": 3163,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 8542,
+      "offset": 8566,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSwiftUISegmentedControl.swift",
       "kind": "IntegerLiteral",
-      "offset": 433,
+      "offset": 457,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSwiftUISegmentedControl.swift",
       "kind": "IntegerLiteral",
-      "offset": 444,
+      "offset": 468,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSwiftUISegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 485,
+      "offset": 509,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSwiftUISegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 613,
+      "offset": 637,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSwiftUISegmentedControl.swift",
       "kind": "BooleanLiteral",
-      "offset": 1594,
+      "offset": 1618,
       "length": 4,
       "value": "true"
     },
@@ -7724,7 +7724,7 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/Builders\/MinSizeBuilder.swift",
       "kind": "IntegerLiteral",
-      "offset": 644,
+      "offset": 668,
       "length": 2,
       "value": "18"
     },
@@ -7836,126 +7836,98 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 204,
-      "length": 37,
-      "value": "\"No matching photos found in gallery\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
-      "length": 36,
-      "value": "\"No matching video found in gallery\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
-      "kind": "StringLiteral",
-      "offset": 395,
+      "offset": 217,
       "length": 42,
       "value": "\"BanubaVideoEditor.Gallery.SelectItemName\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 325,
       "length": 44,
       "value": "\"BanubaVideoEditor.Gallery.DeselectItemName\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 627,
+      "offset": 449,
       "length": 43,
       "value": "\"BanubaVideoEditor.Gallery.HeaderInfoTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 692,
+      "offset": 514,
       "length": 50,
       "value": "\"BanubaVideoEditor.Gallery.HeaderInfoColoredTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 815,
+      "offset": 637,
       "length": 50,
       "value": "\"BanubaVideoEditor.Gallery.HeaderInfoColoredTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1093,
+      "offset": 915,
       "length": 45,
       "value": "\"BanubaVideoEditor.Gallery.RecentPhotosTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1196,
+      "offset": 1018,
       "length": 39,
       "value": "\"BanubaVideoEditor.Gallery.AllTabTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1295,
+      "offset": 1117,
       "length": 41,
       "value": "\"BanubaVideoEditor.Gallery.ImageTabTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1396,
+      "offset": 1218,
       "length": 41,
       "value": "\"BanubaVideoEditor.Gallery.VideoTabTitle\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1501,
+      "offset": 1323,
       "length": 32,
       "value": "\"Video is uploading from iCloud\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1588,
+      "offset": 1410,
       "length": 39,
       "value": "\"BanubaVideoEditor.Gallery.SelectItems\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 1684,
-      "length": 45,
-      "value": "\"BanubaVideoEditor.Gallery.ImportSingleVideo\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
-      "kind": "StringLiteral",
-      "offset": 2135,
-      "length": 45,
-      "value": "\"BanubaVideoEditor.Gallery.ImportSingleImage\""
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
-      "kind": "StringLiteral",
-      "offset": 2241,
+      "offset": 1510,
       "length": 49,
       "value": "\"BanubaVideoEditor.Gallery.EmptySelectionMessage\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 2512,
+      "offset": 1608,
       "length": 35,
       "value": "\"BanubaVideoEditor.Gallery.Autocut\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/LocalizedStrings\/LocalizedStrings.swift",
       "kind": "StringLiteral",
-      "offset": 2591,
+      "offset": 1687,
       "length": 32,
       "value": "\"BanubaVideoEditor.Gallery.Next\""
     },
@@ -7982,22 +7954,15 @@
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/VideoEditorGalleryPresenter.swift",
-      "kind": "Array",
-      "offset": 792,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/VideoEditorGalleryPresenter.swift",
       "kind": "BooleanLiteral",
-      "offset": 1044,
+      "offset": 989,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/VideoEditorGalleryPresenter.swift",
       "kind": "IntegerLiteral",
-      "offset": 1190,
+      "offset": 1135,
       "length": 1,
       "value": "1"
     },
@@ -8025,21 +7990,21 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 645,
+      "offset": 385,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 684,
+      "offset": 424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 843,
+      "offset": 583,
       "length": 3,
       "value": "0.0"
     },
@@ -8060,14 +8025,14 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControlLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 9907,
+      "offset": 9931,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/TTSegmentedControl\/TTSegmentedControlLayout.swift",
       "kind": "BooleanLiteral",
-      "offset": 10440,
+      "offset": 10464,
       "length": 5,
       "value": "false"
     },
