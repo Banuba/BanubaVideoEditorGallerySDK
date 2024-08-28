@@ -278,10 +278,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import BanubaUtilities;
-@import CoreFoundation;
-@import Foundation;
 @import ObjectiveC;
-@import UIKit;
 #endif
 
 #endif
@@ -303,7 +300,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-
 @class GalleryConfiguration;
 @class AlbumsConfiguration;
 @class GallerySelectionBehaviour;
@@ -314,32 +310,6 @@ SWIFT_CLASS("_TtC27BanubaVideoEditorGallerySDK28GalleryViewControllerBuilder")
 - (GalleryViewController * _Nonnull)makeGalleryViewControllerWithConfiguration:(GalleryConfiguration * _Nonnull)configuration albumsConfiguration:(AlbumsConfiguration * _Nonnull)albumsConfiguration selectionBehaviour:(GallerySelectionBehaviour * _Nonnull)selectionBehaviour SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
-
-
-@class NSCoder;
-
-SWIFT_CLASS("_TtC27BanubaVideoEditorGallerySDK18TTSegmentedControl")
-@interface TTSegmentedControl : UIView
-- (void)layoutSubviews;
-- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-
-
-@class UITouch;
-@class UIEvent;
-
-@interface TTSegmentedControl (SWIFT_EXTENSION(BanubaVideoEditorGallerySDK))
-- (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-- (void)touchesEnded:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
-@end
-
-
-
-
-
 
 
 
