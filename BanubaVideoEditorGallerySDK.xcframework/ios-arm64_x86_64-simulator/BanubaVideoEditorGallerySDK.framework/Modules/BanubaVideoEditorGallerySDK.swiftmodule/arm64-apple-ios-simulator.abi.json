@@ -572,7 +572,7 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryCollectionViewCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 6446,
+      "offset": 6525,
       "length": 4,
       "value": "true"
     },
