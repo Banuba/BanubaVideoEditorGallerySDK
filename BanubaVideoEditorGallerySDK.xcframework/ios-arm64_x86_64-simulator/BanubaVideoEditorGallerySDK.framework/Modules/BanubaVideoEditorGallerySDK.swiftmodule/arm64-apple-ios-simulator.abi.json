@@ -747,21 +747,21 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 509,
+      "offset": 385,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 548,
+      "offset": 424,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 707,
+      "offset": 583,
       "length": 3,
       "value": "0.0"
     },
@@ -775,14 +775,14 @@
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/VideoEditorGalleryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9285,
+      "offset": 8684,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/VideoEditorGalleryViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13270,
+      "offset": 12178,
       "length": 4,
       "value": "true"
     },
