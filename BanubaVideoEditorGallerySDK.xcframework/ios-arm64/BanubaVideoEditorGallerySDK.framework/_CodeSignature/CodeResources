@@ -34,7 +34,7 @@
 		</data>
 		<key>GalleryHeaderCollectionReusableView.nib</key>
 		<data>
-		3ujJMVpHdVmSw814vxEXajcke5k=
+		lvAwaYkwLndjLzwnze8Ey/u95uk=
 		</data>
 		<key>GalleryItemPreviewView.storyboardc/GalleryItemPreviewView.nib</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xH2Lip9lHZ1JaFM84NZWU4GkDGw=
+		ISFyhUnBjLfWSi2gD21mFOFpN6w=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ahkkQ7VVgbeG6fi6Iy+TSHuaUxA=
+		yEMbGOAzpIL2O+plWuT/HJ6sKkA=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		V6b/2yGxxh+bGltW75+MTVOLR+I=
+		hmSeDCKGx3MRcoOe5xqBEBTlihA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>VideoEditorGalleryViewController.nib</key>
 		<data>
-		SF5Utmu9PIgblNpVS6GvZugIv/4=
+		EPsclFcEiXP0yQfs09YuVAazlls=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -152,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wFfJldXVOBJ5ZJ4eoUH1rByChSKHO4QHJ6mlo7d5res=
+			lzGX2lAbCXn1ol70W2BRP/6EG7KiSq/P0qV5EuoNMAM=
 			</data>
 		</dict>
 		<key>GalleryItemPreviewView.storyboardc/GalleryItemPreviewView.nib</key>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2fgRMzPW81/kUTuzHAC4LeR99ZmoryxQRugxLkow734=
+			jdiqP9g0fdvU3NZ3+jx4eWGBmJ5tDwCTmRnMZLNQELU=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zXLPekZIoz0mNAXjm4j8OewRr/HInSlPwQ0xI/54COw=
+			XroKe5b9yGuZaFeSvxVIN3acQ/PzkCyHcSpOaFKVs5E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -250,7 +250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AZz88odAcSOzDFEl6u4L8jObJzzbpH/QjXOedeonFKo=
+			edsVLNtjx0Ne4+XbXwJew3ncZUjmZnA3hPeG3IdLIJw=
 			</data>
 		</dict>
 	</dict>
