@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "BanubaVideoEditorGallerySDK",
+    "printedName": "BanubaVideoEditorGallerySDK",
     "children": [
       {
         "kind": "Import",
@@ -281,6 +281,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -556,25 +570,11 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/Albums\/AlbumsTableView\/AlbumsTableViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 44,
-      "length": 22,
-      "value": "\"BanubaVideoEditorGallerySDK.AlbumsTableViewHandler\""
-    },
-    {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/Selected Items\/SelectedGalleryItemCell.swift",
       "kind": "IntegerLiteral",
       "offset": 416,
       "length": 1,
       "value": "6"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/Selected Items\/SelectedGalleryItemsCollectionViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 193,
-      "length": 41,
-      "value": "\"BanubaVideoEditorGallerySDK.SelectedGalleryItemsCollectionViewHandler\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryCollectionViewCell.swift",
@@ -689,13 +689,6 @@
       "value": "\"BanubaVideoEditor.Gallery.Next\""
     },
     {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/Entities\/GalleryExportGalleryItemOperation.swift",
-      "kind": "StringLiteral",
-      "offset": 120,
-      "length": 26,
-      "value": "\"BanubaVideoEditorGallerySDK.ExportGalleryItemOperation\""
-    },
-    {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/GalleryViewControllerBuilder.swift",
       "kind": "BooleanLiteral",
       "offset": 344,
@@ -736,13 +729,6 @@
       "offset": 1347,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/GalleryCollectionViewHandler.swift",
-      "kind": "StringLiteral",
-      "offset": 57,
-      "length": 28,
-      "value": "\"BanubaVideoEditorGallerySDK.GalleryCollectionViewHandler\""
     },
     {
       "filePath": "\/Users\/user\/.jenkins\/workspace\/Release iOS modules\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/BanubaVideoEditorGallerySDK\/ViewControllers\/VideoEditorGalleryViewController\/Views\/GalleryCollectionViewCell\/GalleryItemViewModel.swift",
