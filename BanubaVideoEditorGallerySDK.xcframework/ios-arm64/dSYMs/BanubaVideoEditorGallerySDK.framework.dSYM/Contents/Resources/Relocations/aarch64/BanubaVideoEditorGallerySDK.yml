@@ -3,7 +3,7 @@ triple:          'arm64-apple-darwin'
 binary-path:     '/Users/user/Library/Developer/Xcode/DerivedData/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi/Build/Intermediates.noindex/ArchiveIntermediates/BanubaVideoEditorGallerySDK/InstallationBuildProductsLocation/Library/Frameworks/BanubaVideoEditorGallerySDK.framework/BanubaVideoEditorGallerySDK'
 relocations:
   - { offset: 0x77C4E, size: 0x8, addend: 0x0, symName: _BanubaVideoEditorGallerySDKVersionString, symObjAddr: 0x0, symBinAddr: 0x28C90, symSize: 0x0 }
-  - { offset: 0x77C83, size: 0x8, addend: 0x0, symName: _BanubaVideoEditorGallerySDKVersionNumber, symObjAddr: 0x58, symBinAddr: 0x28CE8, symSize: 0x0 }
+  - { offset: 0x77C83, size: 0x8, addend: 0x0, symName: _BanubaVideoEditorGallerySDKVersionNumber, symObjAddr: 0x60, symBinAddr: 0x28CF0, symSize: 0x0 }
   - { offset: 0x77D8D, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK12AVPlayerViewCMa', symObjAddr: 0xFC, symBinAddr: 0x40FC, symSize: 0x20 }
   - { offset: 0x77DA1, size: 0x8, addend: 0x0, symName: '_$sSo6CGRectVwCP', symObjAddr: 0x130, symBinAddr: 0x4130, symSize: 0x30 }
   - { offset: 0x77DB5, size: 0x8, addend: 0x0, symName: ___swift_noop_void_return, symObjAddr: 0x160, symBinAddr: 0x4160, symSize: 0x4 }
