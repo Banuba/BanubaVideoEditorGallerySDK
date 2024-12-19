@@ -14,7 +14,7 @@
 		</data>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/BanubaVideoEditorGallerySDK</key>
 		<data>
-		nraKPrEibMNG5V8wBM4BFVJP/ng=
+		qo/788DNFfk3N8iU53McB/xQnow=
 		</data>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/CameraCollectionViewCell.nib</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/Info.plist</key>
 		<data>
-		MLUlhqmpPUpkCQHfr1+FmzcYB8Q=
+		JqDBfjnjBOMFhEoUcj6PBX5wpCg=
 		</data>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -98,15 +98,15 @@
 		</data>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		nJrmIor2apDPrw6OIx/Z/VRMDvQ=
+		aSWhEcbLG9Tv/YT3t/SQG6U48zk=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		5St2KYF33sLEiqgHySxaBmXpKMU=
+		L6qex/EBB9xze83R68gJdq8WeNg=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/DWARF/BanubaVideoEditorGallerySDK</key>
 		<data>
-		+wNJPRKTr5JxeerLAoNRjaxkhvM=
+		rLapxtQB4UUZrHgO/++dQNXShvc=
 		</data>
 		<key>ios-arm64/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaVideoEditorGallerySDK.yml</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/BanubaVideoEditorGallerySDK</key>
 		<data>
-		xOa1ESAU+11pULlnD6qeYVl2g/I=
+		pbKX3b+EJglIVo18BX0MJPNokwk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/CameraCollectionViewCell.nib</key>
 		<data>
@@ -170,7 +170,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/Info.plist</key>
 		<data>
-		fhNfCTo2MNh2IXajttVIVWgX8ZY=
+		HlTIB/dIS9peLhA0opLLG35Fu+M=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -222,15 +222,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		cx/H0LvVJ2U0xaygMkg2lfVEVS8=
+		MGdGUjnxAthuEXF9u1eRocQsHcA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		5St2KYF33sLEiqgHySxaBmXpKMU=
+		L6qex/EBB9xze83R68gJdq8WeNg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/DWARF/BanubaVideoEditorGallerySDK</key>
 		<data>
-		y3uQzUoWbiSp/5tpcp2JmdubQBc=
+		NShEER0skMlNf5xtmuW3MrT1+H4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaVideoEditorGallerySDK.yml</key>
 		<data>
@@ -269,11 +269,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nraKPrEibMNG5V8wBM4BFVJP/ng=
+			qo/788DNFfk3N8iU53McB/xQnow=
 			</data>
 			<key>hash2</key>
 			<data>
-			qTZUhn9+2GMRAwFohadkdNlbBzqKG59R1pUQsmsQHmM=
+			0CAGCmfEQlel4aUDHfcoTCnJA2NjZ+KjuAI6vqXSlAE=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/CameraCollectionViewCell.nib</key>
@@ -401,11 +401,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MLUlhqmpPUpkCQHfr1+FmzcYB8Q=
+			JqDBfjnjBOMFhEoUcj6PBX5wpCg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2jwSPNAptcIA+VhlUu3V2DbwLidHIV42Y6Vdx/xERaA=
+			93TcoNhg3tk1zfj0lHptERYzLLrBWUbYCn1k6HqwETY=
 			</data>
 		</dict>
 		<key>ios-arm64/BanubaVideoEditorGallerySDK.framework/Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -500,33 +500,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nJrmIor2apDPrw6OIx/Z/VRMDvQ=
+			aSWhEcbLG9Tv/YT3t/SQG6U48zk=
 			</data>
 			<key>hash2</key>
 			<data>
-			GGNV5h79fPSgUaW6D9sEhvjJDKJq1N00bdIDgRdOiyw=
+			m7vvapd7YR2hj0iN8TmMUuQ9fkg0kFhXQVm55MJNG10=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5St2KYF33sLEiqgHySxaBmXpKMU=
+			L6qex/EBB9xze83R68gJdq8WeNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2yWcy9vUn+Tyln2APxxGzhuojtkJhCqOtcmsBXyZoOM=
+			NUZUUYeU3rgi5s6jo2rt9aFxcTE1iNNK0b7c+894rUU=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/DWARF/BanubaVideoEditorGallerySDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+wNJPRKTr5JxeerLAoNRjaxkhvM=
+			rLapxtQB4UUZrHgO/++dQNXShvc=
 			</data>
 			<key>hash2</key>
 			<data>
-			+poPaojZrjeinhdSfEQ12//qLNKrzaUgkHotqaSwwlo=
+			3pVfcGHhnMZMOu/Fu8jvIW1Nc6/HvE27pvHjQdqLgsI=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaVideoEditorGallerySDK.yml</key>
@@ -566,11 +566,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xOa1ESAU+11pULlnD6qeYVl2g/I=
+			pbKX3b+EJglIVo18BX0MJPNokwk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8uEbgAf6Ci4oOSbkgFVDuZvo6NkSOIMpPNYUGhlkObk=
+			QUlHWnbXA4Sq4l7rLfeTcoTFQPXzQWxmt9zxnAZ+AXk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/CameraCollectionViewCell.nib</key>
@@ -698,11 +698,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fhNfCTo2MNh2IXajttVIVWgX8ZY=
+			HlTIB/dIS9peLhA0opLLG35Fu+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			stNE615IMan7HgqJ0Z2MV24M1leWQXUfUFNEMrWE348=
+			H0O2sX+5JLIp6budMK+SVMD5SdfzPuAG+N1zO9BfMs4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BanubaVideoEditorGallerySDK.framework/Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -841,33 +841,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cx/H0LvVJ2U0xaygMkg2lfVEVS8=
+			MGdGUjnxAthuEXF9u1eRocQsHcA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jvAp3VBwdnhtOBgnFJOATKGErucoxEpO1vqztzO7JTg=
+			Y96HYL485Glc7j6MLkGgL50faLGFpdutEA55t+7A9nM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5St2KYF33sLEiqgHySxaBmXpKMU=
+			L6qex/EBB9xze83R68gJdq8WeNg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2yWcy9vUn+Tyln2APxxGzhuojtkJhCqOtcmsBXyZoOM=
+			NUZUUYeU3rgi5s6jo2rt9aFxcTE1iNNK0b7c+894rUU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/DWARF/BanubaVideoEditorGallerySDK</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			y3uQzUoWbiSp/5tpcp2JmdubQBc=
+			NShEER0skMlNf5xtmuW3MrT1+H4=
 			</data>
 			<key>hash2</key>
 			<data>
-			AyBByL+A0irVNq4Voz+kUriciyb86oY2a0+xhigNkL0=
+			ZJ4EbH+hJHX/PfVzprwxXcM4V/yF1RdZXhmzE5ekfKI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/BanubaVideoEditorGallerySDK.framework.dSYM/Contents/Resources/Relocations/aarch64/BanubaVideoEditorGallerySDK.yml</key>
