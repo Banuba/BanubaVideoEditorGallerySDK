@@ -174,19 +174,19 @@ relocations:
   - { offset: 0x7C8E5, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D18CollectionViewCellC5coderACSgSo7NSCoderC_tcfc', symObjAddr: 0x2B54, symBinAddr: 0x9D70, symSize: 0x194 }
   - { offset: 0x7C918, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D18CollectionViewCellC5coderACSgSo7NSCoderC_tcfcTo', symObjAddr: 0x2CE8, symBinAddr: 0x9F04, symSize: 0x28 }
   - { offset: 0x7CABA, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryPreviewSelectItem_WZ', symObjAddr: 0x0, symBinAddr: 0xA504, symSize: 0x38 }
-  - { offset: 0x7CADE, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryPreviewSelectItemSSvpZ', symObjAddr: 0x3990, symBinAddr: 0x44620, symSize: 0x0 }
-  - { offset: 0x7CAF8, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO26galleryPreviewDeselectItemSSvpZ', symObjAddr: 0x39A0, symBinAddr: 0x44630, symSize: 0x0 }
-  - { offset: 0x7CB12, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO25collectionInfoHeaderTitleSSvpZ', symObjAddr: 0x39B0, symBinAddr: 0x44640, symSize: 0x0 }
-  - { offset: 0x7CB2C, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO32collectionInfoHeaderColoredTitleSSvpZ', symObjAddr: 0x39C0, symBinAddr: 0x44650, symSize: 0x0 }
-  - { offset: 0x7CB46, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryRecentPhotosTitleSSvpZ', symObjAddr: 0x39D0, symBinAddr: 0x44660, symSize: 0x0 }
-  - { offset: 0x7CB60, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO18galleryAllTabTitleSSvpZ', symObjAddr: 0x39E0, symBinAddr: 0x44670, symSize: 0x0 }
-  - { offset: 0x7CB7A, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO20galleryImageTabTitleSSvpZ', symObjAddr: 0x39F0, symBinAddr: 0x44680, symSize: 0x0 }
-  - { offset: 0x7CB94, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO07galleryB8TabTitleSSvpZ', symObjAddr: 0x3A00, symBinAddr: 0x44690, symSize: 0x0 }
-  - { offset: 0x7CBAE, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryReceiveFromiCloudSSvpZ', symObjAddr: 0x3A10, symBinAddr: 0x446A0, symSize: 0x0 }
-  - { offset: 0x7CBC8, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO15selectItemsHintSSvpZ', symObjAddr: 0x3A20, symBinAddr: 0x446B0, symSize: 0x0 }
-  - { offset: 0x7CBE2, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO21emptySelectionMessageSSvpZ', symObjAddr: 0x3A30, symBinAddr: 0x446C0, symSize: 0x0 }
-  - { offset: 0x7CBFC, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO7autocutSSvpZ', symObjAddr: 0x3A40, symBinAddr: 0x446D0, symSize: 0x0 }
-  - { offset: 0x7CC16, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO4nextSSvpZ', symObjAddr: 0x3A50, symBinAddr: 0x446E0, symSize: 0x0 }
+  - { offset: 0x7CADE, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryPreviewSelectItemSSvpZ', symObjAddr: 0x3990, symBinAddr: 0x44640, symSize: 0x0 }
+  - { offset: 0x7CAF8, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO26galleryPreviewDeselectItemSSvpZ', symObjAddr: 0x39A0, symBinAddr: 0x44650, symSize: 0x0 }
+  - { offset: 0x7CB12, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO25collectionInfoHeaderTitleSSvpZ', symObjAddr: 0x39B0, symBinAddr: 0x44660, symSize: 0x0 }
+  - { offset: 0x7CB2C, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO32collectionInfoHeaderColoredTitleSSvpZ', symObjAddr: 0x39C0, symBinAddr: 0x44670, symSize: 0x0 }
+  - { offset: 0x7CB46, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryRecentPhotosTitleSSvpZ', symObjAddr: 0x39D0, symBinAddr: 0x44680, symSize: 0x0 }
+  - { offset: 0x7CB60, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO18galleryAllTabTitleSSvpZ', symObjAddr: 0x39E0, symBinAddr: 0x44690, symSize: 0x0 }
+  - { offset: 0x7CB7A, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO20galleryImageTabTitleSSvpZ', symObjAddr: 0x39F0, symBinAddr: 0x446A0, symSize: 0x0 }
+  - { offset: 0x7CB94, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO07galleryB8TabTitleSSvpZ', symObjAddr: 0x3A00, symBinAddr: 0x446B0, symSize: 0x0 }
+  - { offset: 0x7CBAE, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryReceiveFromiCloudSSvpZ', symObjAddr: 0x3A10, symBinAddr: 0x446C0, symSize: 0x0 }
+  - { offset: 0x7CBC8, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO15selectItemsHintSSvpZ', symObjAddr: 0x3A20, symBinAddr: 0x446D0, symSize: 0x0 }
+  - { offset: 0x7CBE2, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO21emptySelectionMessageSSvpZ', symObjAddr: 0x3A30, symBinAddr: 0x446E0, symSize: 0x0 }
+  - { offset: 0x7CBFC, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO7autocutSSvpZ', symObjAddr: 0x3A40, symBinAddr: 0x446F0, symSize: 0x0 }
+  - { offset: 0x7CC16, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO4nextSSvpZ', symObjAddr: 0x3A50, symBinAddr: 0x44700, symSize: 0x0 }
   - { offset: 0x7CC24, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO24galleryPreviewSelectItem_WZ', symObjAddr: 0x0, symBinAddr: 0xA504, symSize: 0x38 }
   - { offset: 0x7CC3E, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO26galleryPreviewDeselectItem_WZ', symObjAddr: 0x38, symBinAddr: 0xA53C, symSize: 0x38 }
   - { offset: 0x7CC79, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK16LocalizedStringsO25collectionInfoHeaderTitle_WZ', symObjAddr: 0x70, symBinAddr: 0xA574, symSize: 0xE0 }
@@ -239,8 +239,8 @@ relocations:
   - { offset: 0x7D877, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK06ExportD13ItemOperationC17operationDidStartyyFTo', symObjAddr: 0x698, symBinAddr: 0xAF60, symSize: 0x28 }
   - { offset: 0x7D8A4, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK06ExportD13ItemOperationCACycfcTo', symObjAddr: 0xB48, symBinAddr: 0xB40C, symSize: 0x2C }
   - { offset: 0x7D945, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK06ExportD13ItemOperationC07galleryG5Model17requiredPhotoSize05startF016downloadProgress7success6cancel4failAcA0dg4ViewJ0C_So6CGSizeVyycySdcSgyALcyycys5Error_pSgctcfcTf4gngggggn_n', symObjAddr: 0xC54, symBinAddr: 0xB4E4, symSize: 0x1BC }
-  - { offset: 0x7DBA4, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D21ViewControllerBuilderC6sharedACvpZ', symObjAddr: 0xB00, symBinAddr: 0x42BC8, symSize: 0x0 }
-  - { offset: 0x7DD21, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D21ViewControllerBuilderC019albumbsPresentationG0AA06AlbumsjG0CvpZ', symObjAddr: 0x7B50, symBinAddr: 0x446F0, symSize: 0x0 }
+  - { offset: 0x7DBA4, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D21ViewControllerBuilderC6sharedACvpZ', symObjAddr: 0xB00, symBinAddr: 0x42BE8, symSize: 0x0 }
+  - { offset: 0x7DD21, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D21ViewControllerBuilderC019albumbsPresentationG0AA06AlbumsjG0CvpZ', symObjAddr: 0x7B50, symBinAddr: 0x44710, symSize: 0x0 }
   - { offset: 0x7DE45, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D21ViewControllerBuilderCfETo', symObjAddr: 0x440, symBinAddr: 0xBD08, symSize: 0x4 }
   - { offset: 0x7DEBD, size: 0x8, addend: 0x0, symName: '_$s27BanubaVideoEditorGallerySDK0D21ViewControllerBuilderCMa', symObjAddr: 0x55C, symBinAddr: 0xBE24, symSize: 0x20 }
   - { offset: 0x7DF42, size: 0x8, addend: 0x0, symName: '_$s15BanubaUtilities35GalleryItemPreviewViewConfigurationVSgWOd', symObjAddr: 0xAB4, symBinAddr: 0xC31C, symSize: 0x48 }
