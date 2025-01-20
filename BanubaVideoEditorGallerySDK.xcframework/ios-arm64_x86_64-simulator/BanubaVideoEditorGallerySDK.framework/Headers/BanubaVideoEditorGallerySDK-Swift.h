@@ -319,8 +319,6 @@ SWIFT_CLASS("_TtC27BanubaVideoEditorGallerySDK28GalleryViewControllerBuilder")
 
 
 
-
-
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
@@ -645,8 +643,6 @@ SWIFT_CLASS("_TtC27BanubaVideoEditorGallerySDK28GalleryViewControllerBuilder")
 - (GalleryViewController * _Nonnull)makeGalleryViewControllerWithConfiguration:(GalleryConfiguration * _Nonnull)configuration albumsConfiguration:(AlbumsConfiguration * _Nonnull)albumsConfiguration selectionBehaviour:(GallerySelectionBehaviour * _Nonnull)selectionBehaviour SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
-
-
 
 
 

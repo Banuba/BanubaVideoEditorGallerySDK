@@ -775,28 +775,28 @@
     {
       "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 734,
+      "offset": 827,
       "length": 13,
       "value": "\"camera_icon\""
     },
     {
       "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 867,
+      "offset": 982,
       "length": 7,
       "value": "\"cross\""
     },
     {
       "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1028,
+      "offset": 1165,
       "length": 26,
       "value": "\"icon-close-with-bg-small\""
     },
     {
       "filePath": "\/Users\/user\/Library\/Developer\/Xcode\/DerivedData\/VideoEditorSDKSandbox-apczolamkvzvcugwxnswrghnwlmi\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BanubaVideoEditorGallerySDK\/IntermediateBuildFilesPath\/BanubaVideoEditorGallerySDK.build\/Release-iphonesimulator\/BanubaVideoEditorGallerySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1174,
+      "offset": 1333,
       "length": 7,
       "value": "\"minus\""
     }
