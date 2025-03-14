@@ -46,7 +46,7 @@
 		</data>
 		<key>GalleryItemPreviewView.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		QgcT5r0tuBHbvh7LUaRfBVRNztg=
+		cdtSFDnMowO7GpMSkkoTdLBa4IU=
 		</data>
 		<key>Headers/BanubaVideoEditorGallerySDK-Swift.h</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		23y1jllTadmFNdrzbyQqbNqVZdQ=
+		VeY6x73Co24eliNUGIgDwOs0dfY=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		kzOAJP0/NWtH2dN7kXWdV2mwUC0=
+		ZjcToe84p/Ee8wv/i0peB1GyN0U=
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		1QjknWh3gzTEJUndGWacdUn6ilc=
+		3S1iOfnp5/WPxHW/M1ULUrdGXVI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>VideoEditorGalleryViewController.nib</key>
 		<data>
-		EPsclFcEiXP0yQfs09YuVAazlls=
+		GN07rh0LazmGnbA8nNDoxWrAyyo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -173,7 +173,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O4osjBaSc1adKUTIbhzh7fMGkHHUMrTJoKqxJJNDKBA=
+			3s/+veooy/tlqPmC+TGqFKELeAfXHsJ8JuT/w9UpqwM=
 			</data>
 		</dict>
 		<key>Headers/BanubaVideoEditorGallerySDK-Swift.h</key>
@@ -194,7 +194,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HaUFAJ/arSdFwfWSYmMclsDn59KY58avWRGcGUiI7jM=
+			CYIiSKDTVnX8AOC3V3wyW9gRNflXeMh0lxnYTwS+uIs=
 			</data>
 		</dict>
 		<key>Modules/BanubaVideoEditorGallerySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -222,7 +222,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2E8T5wD1HENM0H/K6Z02hdXQA77FZPWsbN60quRxbhI=
+			y73UriapVzyR6gX399zf3nk0I7IAdvDws5n5CQtDf9I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -250,7 +250,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			edsVLNtjx0Ne4+XbXwJew3ncZUjmZnA3hPeG3IdLIJw=
+			19nGhrmPM+GakpiBTejjnEwbTmDv6O6G5JSYCykze0M=
 			</data>
 		</dict>
 	</dict>
